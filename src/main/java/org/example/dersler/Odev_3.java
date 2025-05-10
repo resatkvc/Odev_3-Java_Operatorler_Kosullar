@@ -1,7 +1,6 @@
 package org.example.dersler;
 
 import java.util.Scanner;
-
 public class Odev_3 {
 
     public static void main(String[] args) {
