@@ -15,7 +15,7 @@ Bu senaryoda **`if-else if-else`** yapısı tercih edilmelidir.
 - `switch-case` yalnızca sabit değerlere göre çalıştığı için aralıklar için uygun değildir,
 - `ternary operator` ise kısa ve basit durumlar için uygundur; çoklu aralıklar için okunabilirliği düşürür.
 
-  # Artırma Operatörünün kod çıktısı
+  # Artırma Operatörünün Kod Çıktısı
 <pre> 
   int e = 12;
   boolean sonuc5 = (e > 10) && (e++ < 15);  
